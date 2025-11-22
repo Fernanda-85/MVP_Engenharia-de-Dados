@@ -1,0 +1,381 @@
+DATA;HORÁRIO;EM CASA;RESULTADO;VISITANTE; PÚBLICO ;LOCAL
+13/04/2024;18:30;Criciuma;1X1;Juventude; 12.804 ;Estadio Heriberto Hulse
+13/04/2024;18:30;Internacional;2X1;Bahia; 19.103 ;Estadio Jose Pinheiro Borba
+14/04/2024;16:00;Ath Paranaense;4X0;Cuiaba; 21.388 ;Ligga Arena
+14/04/2024;16:00;Vasco da Gama;2X1;Gremio; 17.722 ;Estadio Club de Regatas Vasco da Gama
+14/04/2024;16:00;Corinthians;0X0;Atletico Mineiro; 44.285 ;Neo Quimica Arena
+14/04/2024;16:00;Atl Goianiense;1X2;Flamengo; 31.617 ;Estadio do Governo do Estado de Goias
+14/04/2024;17:00;Cruzeiro;3X2;Botafogo (RJ); 20.701 ;Estadio Governador Magalhaes  Pinto
+14/04/2024;18:30;Vitoria;0X1;Palmeiras; 30.644 ;Estadio Manoel Barradas
+13/04/2024;21:00;Fluminense;2X2;RB Bragantino; 17.645 ;Estadio Jornalista Mario Filho
+13/04/2024;21:00;Sao Paulo;1X2;Fortaleza; 35.055 ;Estadio do Morumbi
+17/04/2024;19:00;Gremio;2X0;Ath Paranaense; 13.236 ;Arena do Gremio
+17/04/2024;19:00;RB Bragantino;2X1;Vasco da Gama; 5.448 ;Estadio Nabi Abi Chedid
+17/04/2024;20:00;Juventude;2X0;Corinthians; 7.478 ;Estadio Alfredo Jaconi
+17/04/2024;20:00;Atletico Mineiro;1X1;Criciuma; 21.726 ;Arena MRV
+17/04/2024;20:00;Palmeiras;0X1;Internacional; 13.464 ;Allianz Parque
+17/04/2024;20:00;Fortaleza;1X1;Cruzeiro; 21.726 ;Estadio Castelao
+16/04/2024;21:30;Bahia;2X1;Fluminense; 2.308 ;Itaipava Arena Fonte Nova
+17/04/2024;21:30;Flamengo;2X1;Sao Paulo; 45.166 ;Estadio Jornalista Mario Filho
+18/04/2024;21:30;Botafogo (RJ);1X0;Atl Goianiense; 7.801 ;Estadio Nilton Santos
+20/04/2024;16:00;Fluminense;2X1;Vasco da Gama; 25.842 ;Estadio Jornalista Mario Filho
+20/04/2024;18:30;RB Bragantino;1X0;Corinthians; 9.466 ;Estadio Nabi Abi Chedid
+20/04/2024;18:30;Gremio;1X0;Cuiaba; 22.904 ;Arena do Gremio
+21/04/2024;16:00;Vitoria;2X2;Bahia; 27.609 ;Estadio Manoel Barradas
+21/04/2024;16:00;Palmeiras;0X0;Flamengo; 29.956 ;Allianz Parque
+21/04/2024;16:00;Ath Paranaense;1X0;Internacional; 29.784 ;Ligga Arena
+21/04/2024;18:30;Atl Goianiense;0X3;Sao Paulo; 8.024 ;Estadio Antonio Accioly
+21/04/2024;18:30;Botafogo (RJ);5X1;Juventude; 13.273 ;Estadio Municipal NiltonSantos
+20/04/2024;21:00;Atletico Mineiro;3X0;Cruzeiro; 39.541 ;Arena MRV
+27/04/2024;16:00;Vasco da Gama;0X4;Criciuma; 17.124 ;Estadio Club de Regatas Vasco da Gama
+27/04/2024;17:30 (18:30);Cuiaba;0X3;Atletico Mineiro; 6.711 ;Arena Pantanal
+28/04/2024;11:00;Flamengo;0X2;Botafogo (RJ); 53.683 ;Estadio Jornalista Mario Filho
+28/04/2024;16:00;Cruzeiro;3X1;Vitoria; 20.083 ;Estadio Governador Magalhaes  Pinto
+28/04/2024;16:00;Corinthians;3X0;Fluminense; 42.119 ;Neo Quimica Arena
+28/04/2024;18:30;Fortaleza;1X1;RB Bragantino; 18.113 ;Estadio Castelao
+28/04/2024;18:30;Juventude;1X1;Ath Paranaense; 5.032 ;Estadio Alfredo Jaconi
+28/04/2024;20:00;Internacional;1X1;Atl Goianiense; 28.468 ;Estadio Jose Pinheiro Borba
+27/04/2024;21:00;Bahia;1X0;Gremio; 35.836 ;Itaipava Arena Fonte Nova
+29/04/2024;20:00;Sao Paulo;0X0;Palmeiras; 55.694 ;Estadio do Morumbi
+04/05/2024;16:00;Fluminense;2X2;Atletico Mineiro; 5.168 ;Estadio Kleber Jose de Andrade
+04/05/2024;18:30;RB Bragantino;1X1;Flamengo; 9.917 ;Estadio Nabi Abi Chedid
+05/05/2024;16:00;Vitoria;1X3;Sao Paulo; 25.739 ;Estadio Manoel Barradas
+05/05/2024;16:00;Ath Paranaense;1X0;Vasco da Gama; 31.192 ;Ligga Arena
+05/05/2024;17:30 (18:30);Cuiaba;0X2;Palmeiras; 10.781 ;Arena Pantanal
+05/05/2024;18:30;Botafogo (RJ);1X2;Bahia; 22.685 ;Estadio Nilton Santos
+04/05/2024;21:00;Corinthians;0X0;Fortaleza; 42.456 ;Neo Quimica Arena
+11/05/2024;16:00;Flamengo;2X0;Corinthians; 56.829 ;Estadio Jornalista Mario Filho
+12/05/2024;16:00;Palmeiras;0X2;Ath Paranaense; 12.108 ;Arena Barueri
+12/05/2024;16:00;Atl Goianiense;0X1;Cruzeiro; 7.576 ;Estadio Antonio Accioly
+12/05/2024;16:00;Fortaleza;1X1;Botafogo (RJ); 15.914 ;Estadio Castelao
+12/05/2024;18:30;Bahia;1X0;RB Bragantino; 3.682 ;Itaipava Arena Fonte Nova
+12/05/2024;18:30;Vasco da Gama;2X1;Vitoria; 11.084 ;Estadio Club de Regatas Vasco da Gama
+13/05/2024;20:00;Sao Paulo;2X1;Fluminense; 39.515 ;Estadio do Morumbi
+01/06/2024;16:00;Vitoria;0X2;Atl Goianiense; 16.008 ;Estadio Manoel Barradas
+01/06/2024;16:00;Gremio;0X2;RB Bragantino; 7.563 ;Estadio Major Antonio Couto Pereira
+01/06/2024;17:30 (18:30);Cuiaba;0X1;Internacional; 5.747 ;Arena Pantanal
+01/06/2024;18:30;Fluminense;1X1;Juventude; 21.037 ;Estadio Jornalista Mario Filho
+02/06/2024;16:00;Criciuma;1X2;Palmeiras; 19.027 ;Estadio Heriberto Hulse
+02/06/2024;16:00;Atletico Mineiro;1X1;Bahia; 37.994 ;Arena MRV
+02/06/2024;16:00;Vasco da Gama;1X6;Flamengo; 62.228 ;Estadio Jornalista Mario Filho
+02/06/2024;18:30;Sao Paulo;2X0;Cruzeiro; 44.928 ;Estadio do Morumbi
+02/06/2024;18:30;Fortaleza;1X0;Ath Paranaense; 12.191 ;Estadio Municipal Presidente Getulio Var...
+01/06/2024;21:00;Corinthians;0X1;Botafogo (RJ); 41.281 ;Neo Quimica Arena
+05/06/2024;19:00 (20:00);Cuiaba;0X0;Vitoria; 3.614 ;Arena Pantanal
+05/06/2024;19:00;Juventude;1X0;Atl Goianiense; 5.123 ;Estadio Alfredo Jaconi
+09/06/2024;16:00;Criciuma;2X5;Cuiaba; 13.846 ;Estadio Heriberto Hulse
+11/06/2024;19:00;Juventude;1X1;Vitoria; 6.186 ;Estadio Alfredo Jaconi
+11/06/2024;19:00;Atl Goianiense;2X2;Corinthians; 1.208 ;Estadio Antonio Accioly
+11/06/2024;20:00;Botafogo (RJ);1X0;Fluminense; 27.239 ;Estadio Nilton Santos
+11/06/2024;21:30;RB Bragantino;1X2;Atletico Mineiro; 4.617 ;Estadio Nabi Abi Chedid
+13/06/2024;19:00;Cruzeiro;2X1;Cuiaba; 26.595 ;Estadio Governador Magalhaes  Pinto
+13/06/2024;20:00;Flamengo;2X1;Gremio; 51.785 ;Estadio Jornalista Mario Filho
+13/06/2024;20:00;Internacional;0X0;Sao Paulo; 17.987 ;Estadio Heriberto Hulse
+13/06/2024;20:00;Ath Paranaense;3X1;Criciuma; 23.424 ;Ligga Arena
+13/06/2024;21:30;Bahia;1X0;Fortaleza; 29.889 ;Itaipava Arena Fonte Nova
+13/06/2024;21:30;Palmeiras;2X0;Vasco da Gama; 37.641 ;Allianz Parque
+15/06/2024;18:30;RB Bragantino;2X1;Juventude; 3.338 ;Estadio Nabi Abi Chedid
+16/06/2024;16:00;Vitoria;2X1;Internacional; 14.251 ;Estadio Manoel Barradas
+16/06/2024;16:00;Corinthians;2X2;Sao Paulo; 46.129 ;Neo Quimica Arena
+16/06/2024;16:00;Ath Paranaense;1X1;Flamengo; 38.641 ;Ligga Arena
+16/06/2024;17:30 (18:30);Cuiaba;5X0;Fortaleza; 4.474 ;Arena Pantanal
+16/06/2024;18:30;Criciuma;2X2;Bahia; 8.661 ;Estadio Heriberto Hulse
+16/06/2024;18:30;Gremio;1X2;Botafogo (RJ); 15.595 ;Estadio Kleber Jose de Andrade
+16/06/2024;18:30;Vasco da Gama;0X0;Cruzeiro; 11.275 ;Estadio Club de Regatas Vasco da Gama
+15/06/2024;21:00;Fluminense;1X2;Atl Goianiense; 14.485 ;Estadio Jornalista Mario Filho
+17/06/2024;20:30;Atletico Mineiro;0X4;Palmeiras; 28.251 ;Arena MRV
+19/06/2024;19:00;Atl Goianiense;1X2;Criciuma; 6.478 ;Estadio Antonio Accioly
+19/06/2024;19:00;Botafogo (RJ);1X1;Ath Paranaense; 19.589 ;Estadio Nilton Santos
+19/06/2024;20:00;Fortaleza;1X0;Gremio; 16.935 ;Estadio Castelao
+19/06/2024;20:00;Sao Paulo;0X1;Cuiaba; 33.586 ;Estadio do Morumbi
+19/06/2024;20:00;Juventude;2X0;Vasco da Gama; 4.838 ;Estadio Alfredo Jaconi
+20/06/2024;18:30;Vitoria;4X2;Atletico Mineiro; 15.044 ;Estadio Manoel Barradas
+20/06/2024;20:00;Flamengo;2X1;Bahia; 49.909 ;Estadio Jornalista Mario Filho
+19/06/2024;21:30;Internacional;1X0;Corinthians; 14.447 ;Estadio Orlando Scarpelli
+19/06/2024;21:30;Cruzeiro;2X0;Fluminense; 28.812 ;Estadio Governador Magalhaes  Pinto
+20/06/2024;21:30;Palmeiras;2X1;RB Bragantino; 29.119 ;Allianz Parque
+22/06/2024;16:00;Criciuma;2X1;Botafogo (RJ); 16.256 ;Estadio Heriberto Hulse
+22/06/2024;17:30 (18:30);Cuiaba;0X0;Atl Goianiense; 4.635 ;Arena Pantanal
+22/06/2024;17:30;Gremio;0X1;Internacional; 27.961 ;Estadio Major Antonio Couto Pereira
+23/06/2024;16:00;Fluminense;0X1;Flamengo; 57.098 ;Estadio Jornalista Mario Filho
+23/06/2024;16:00;Bahia;4X1;Cruzeiro; 35.541 ;Itaipava Arena Fonte Nova
+23/06/2024;16:00;Ath Paranaense;1X1;Corinthians; 34.682 ;Ligga Arena
+23/06/2024;18:30;Atletico Mineiro;1X1;Fortaleza; 20.089 ;Arena MRV
+23/06/2024;18:30;Palmeiras;3X1;Juventude; 38.258 ;Allianz Parque
+23/06/2024;18:30;RB Bragantino;2X1;Vitoria; 4.426 ;Estadio Nabi Abi Chedid
+22/06/2024;21:30;Vasco da Gama;4X1;Sao Paulo; 4.897 ;Estadio Club de Regatas Vasco da Gama
+26/06/2024;19:00;Botafogo (RJ);2X1;RB Bragantino; 13.333 ;Estadio Nilton Santos
+26/06/2024;19:00;Cruzeiro;2X0;Ath Paranaense; 26.465 ;Estadio Governador Magalhaes  Pinto
+26/06/2024;20:00;Juventude;2X1;Flamengo; 12.675 ;Estadio Alfredo Jaconi
+26/06/2024;20:00;Atl Goianiense;1X1;Gremio; 7.319 ;Estadio Antonio Accioly
+26/06/2024;20:00;Corinthians;1X1;Cuiaba; 38.475 ;Neo Quimica Arena
+27/06/2024;19:00;Fluminense;0X1;Vitoria; 24.269 ;Estadio Jornalista Mario Filho
+27/06/2024;20:00;Sao Paulo;2X1;Criciuma; 28.008 ;Estadio do Morumbi
+26/06/2024;21:30;Bahia;2X1;Vasco da Gama; 38.318 ;Itaipava Arena Fonte Nova
+26/06/2024;21:30;Internacional;1X2;Atletico Mineiro; 9.978 ;Estadio Heriberto Hulse
+26/06/2024;21:30;Fortaleza;3X0;Palmeiras; 28.613 ;Estadio Castelao
+29/06/2024;17:30 (18:30);Cuiaba;1X1;RB Bragantino; 5.024 ;Arena Pantanal
+29/06/2024;18:30;Vasco da Gama;1X1;Botafogo (RJ); 15.593 ;Estadio Club de Regatas Vasco da Gama
+30/06/2024;11:00;Atletico Mineiro;1X1;Atl Goianiense; 36.099 ;Arena MRV
+30/06/2024;16:00;Sao Paulo;3X1;Bahia; 28.008 ;Estadio do Morumbi
+30/06/2024;16:00;Fortaleza;2X1;Juventude; 33.717 ;Estadio Castelao
+30/06/2024;16:00;Gremio;1X0;Fluminense; 8.549 ;Estadio Francisco Stedile
+30/06/2024;18:30;Flamengo;2X1;Cruzeiro; 52.768 ;Estadio Jornalista Mario Filho
+30/06/2024;18:30;Criciuma;1X1;Internacional; 14.946 ;Estadio Heriberto Hulse
+30/06/2024;18:30;Vitoria;0X1;Ath Paranaense; 20.376 ;Estadio Manoel Barradas
+01/07/2024;20:00;Palmeiras;2X0;Corinthians; 41.175 ;Allianz Parque
+03/07/2024;18:00 (19:00);Cuiaba;1X2;Botafogo (RJ); 7.849 ;Arena Pantanal
+03/07/2024;20:00;Vasco da Gama;2X0;Fortaleza; 14.384 ;Estadio Club de Regatas Vasco da Gama
+03/07/2024;20:00;Criciuma;1X0;Cruzeiro; 12.352 ;Estadio Heriberto Hulse
+04/07/2024;19:00;Gremio;2X2;Palmeiras; 20.797 ;Estadio Francisco Stedile
+04/07/2024;19:00;Bahia;2X0;Juventude; 40.442 ;Itaipava Arena Fonte Nova
+04/07/2024;20:00;Corinthians;3X2;Vitoria; 37.689 ;Neo Quimica Arena
+04/07/2024;20:00;Fluminense;1X1;Internacional; 40.337 ;Estadio Jornalista Mario Filho
+03/07/2024;21:30;Ath Paranaense;1X2;Sao Paulo; 28.632 ;Ligga Arena
+03/07/2024;21:30;RB Bragantino;3X1;Atl Goianiense; 3.102 ;Estadio Nabi Abi Chedid
+03/07/2024;21:30;Atletico Mineiro;2X4;Flamengo; 33.993 ;Arena MRV
+06/07/2024;20:00;Flamengo;1X1;Cuiaba; 54.948 ;Estadio Jornalista Mario Filho
+06/07/2024;20:00;Sao Paulo;2X0;RB Bragantino; 46.321 ;Estadio do Morumbi
+07/07/2024;16:00;Fortaleza;1X0;Fluminense; 34.831 ;Estadio Castelao
+07/07/2024;16:00;Juventude;3X0;Gremio; 7.984 ;Estadio Alfredo Jaconi
+07/07/2024;16:00;Cruzeiro;3X0;Corinthians; 55.186 ;Estadio Governador Magalhaes  Pinto
+07/07/2024;18:00;Internacional;1X2;Vasco da Gama; 41.693 ;Estadio Jose Pinheiro Borba
+07/07/2024;18:30;Atl Goianiense;1X2;Ath Paranaense; 6.152 ;Estadio Antonio Accioly
+07/07/2024;18:30;Palmeiras;2X0;Bahia; 40.198 ;Allianz Parque
+07/07/2024;18:30;Vitoria;2X1;Criciuma; 16.615 ;Estadio Manoel Barradas
+07/07/2024;20:30;Botafogo (RJ);3X0;Atletico Mineiro; 21.582 ;Estadio Nilton Santos
+10/07/2024;18:30;Gremio;0X2;Cruzeiro; 4.623 ;Estadio Francisco Stedile
+10/07/2024;19:00;Ath Paranaense;1X3;Bahia; 23.307 ;Ligga Arena
+10/07/2024;19:00;Vasco da Gama;2X0;Corinthians; 23.307 ;Estadio Club de Regatas Vasco da Gama
+11/07/2024;19:30;Palmeiras;3X1;Atl Goianiense; 26.897 ;Allianz Parque
+11/07/2024;20:00;Flamengo;1X2;Fortaleza; 57.517 ;Estadio Jornalista Mario Filho
+11/07/2024;20:00;Criciuma;1X1;Fluminense; 11.486 ;Estadio Heriberto Hulse
+11/07/2024;21:30;Vitoria;0X1;Botafogo (RJ); 16.489 ;Estadio Manoel Barradas
+11/07/2024;21:30;Atletico Mineiro;2X1;Sao Paulo; 28.772 ;Arena MRV
+13/07/2024;16:00;Cruzeiro;2X1;RB Bragantino; 20.042 ;Estadio Raimundo Sampaio
+13/07/2024;16:00;Bahia;1X2;Cuiaba; 48.602 ;Itaipava Arena Fonte Nova
+16/07/2024;19:00;Juventude;1X1;Atletico Mineiro; 9.788 ;Estadio Nacional de Brasilia
+17/07/2024;19:00;Atl Goianiense;0X1;Vasco da Gama; 12.089 ;Estadio Antonio Accioly
+17/07/2024;20:00;Sao Paulo;1X0;Gremio; 53.168 ;Estadio do Morumbi
+16/07/2024;21:00;Corinthians;2X1;Criciuma; 43.241 ;Neo Quimica Arena
+17/07/2024;21:30;Fortaleza;3X1;Vitoria; 24.813 ;Estadio Castelao
+17/07/2024;21:30;Botafogo (RJ);1X0;Palmeiras; 3.957 ;Estadio Nilton Santos
+20/07/2024;16:00;Flamengo;2X1;Criciuma; 60.127 ;Estadio Nacional de Brasilia
+20/07/2024;18:30;Botafogo (RJ);1X0;Internacional; 31.344 ;Estadio Nilton Santos
+21/07/2024;11:00;Gremio;2X0;Vitoria; 25.248 ;Estadio Francisco Stedile
+21/07/2024;16:00;Bahia;0X1;Corinthians; 48.346 ;Itaipava Arena Fonte Nova
+21/07/2024;16:00;Atletico Mineiro;2X0;Vasco da Gama; 42.353 ;Arena MRV
+21/07/2024;18:30;RB Bragantino;1X0;Ath Paranaense; 4.423 ;Estadio Nabi Abi Chedid
+21/07/2024;18:30;Fortaleza;3X1;Atl Goianiense; 30.822 ;Estadio Castelao
+21/07/2024;18:30;Juventude;0X0;Sao Paulo; 26.476 ;Estadio Nacional de Brasilia
+21/07/2024;19:00 (20:00);Cuiaba;0X1;Fluminense; 13.231 ;Arena Pantanal
+20/07/2024;21:00;Palmeiras;2X0;Cruzeiro; 40.465 ;Allianz Parque
+24/07/2024;19:00;Criciuma;1X1;Fortaleza; 13.625 ;Estadio Heriberto Hulse
+24/07/2024;19:00;Cruzeiro;2X0;Juventude; 46.603 ;Estadio Governador Magalhaes  Pinto
+24/07/2024;19:30;Sao Paulo;2X2;Botafogo (RJ); 53.244 ;Estadio do Morumbi
+24/07/2024;20:00;Vitoria;1X2;Flamengo; 30.688 ;Estadio Manoel Barradas
+25/07/2024;20:00;Corinthians;2X2;Gremio; 45.183 ;Neo Quimica Arena
+24/07/2024;21:30;Atl Goianiense;1X1;Bahia; 5.777 ;Estadio Antonio Accioly
+24/07/2024;21:30;Fluminense;1X0;Palmeiras; 51.375 ;Estadio Jornalista Mario Filho
+27/07/2024;19:00;Palmeiras;0X2;Vitoria; 39.609 ;Allianz Parque
+27/07/2024;19:00;Juventude;1X2;Criciuma; 6.564 ;Estadio Alfredo Jaconi
+27/07/2024;20:00;Bahia;1X1;Internacional; 3.295 ;Itaipava Arena Fonte Nova
+28/07/2024;11:00;RB Bragantino;0X1;Fluminense; 7.304 ;Estadio Nabi Abi Chedid
+28/07/2024;16:00;Flamengo;2X0;Atl Goianiense; 61.883 ;Estadio Jornalista Mario Filho
+28/07/2024;18:00 (19:00);Cuiaba;1X2;Ath Paranaense; 4.452 ;Arena Pantanal
+28/07/2024;19:00;Atletico Mineiro;2X1;Corinthians; 44.048 ;Arena MRV
+28/07/2024;19:00;Gremio;1X0;Vasco da Gama; 17.621 ;Arena CondÃ¡
+27/07/2024;21:30;Botafogo (RJ);0X3;Cruzeiro; 19.349 ;Estadio Nilton Santos
+27/07/2024;21:30;Fortaleza;1X0;Sao Paulo; 41.322 ;Estadio Castelao
+03/08/2024;16:00;Vitoria;1X0;Cuiaba; 26.715 ;Estadio Manoel Barradas
+03/08/2024;19:00;Vasco da Gama;2X2;RB Bragantino; 17.938 ;Estadio Club de Regatas Vasco da Gama
+03/08/2024;20:00;Atl Goianiense;1X4;Botafogo (RJ); 8.618 ;Estadio Antonio Accioly
+03/08/2024;20:00;Criciuma;2X1;Atletico Mineiro; 15.642 ;Estadio Heriberto Hulse
+04/08/2024;16:00;Fluminense;1X0;Bahia; 50.262 ;Estadio Jornalista Mario Filho
+04/08/2024;16:00;Corinthians;1X1;Juventude; 43.947 ;Neo Quimica Arena
+04/08/2024;16:00;Ath Paranaense;0X2;Gremio; 27.205 ;Ligga Arena
+04/08/2024;17:00;Internacional;1X1;Palmeiras; 20.794 ;Estadio Jose Pinheiro Borba
+03/08/2024;21:30;Sao Paulo;1X0;Flamengo; 58.065 ;Estadio do Morumbi
+05/08/2024;21:00;Cruzeiro;1X2;Fortaleza; 20 ;Estadio Kleber Jose de Andrade
+10/08/2024;16:00;Fortaleza;1X0;Criciuma; 40.311 ;Estadio Castelao
+10/08/2024;18:00 (19:00);Cuiaba;1X3;Gremio; 9.853 ;Arena Pantanal
+11/08/2024;11:00;Juventude;3X2;Botafogo (RJ); 5.288 ;Estadio Alfredo Jaconi
+11/08/2024;16:00;Sao Paulo;1X0;Atl Goianiense; 466 ;Estadio do Morumbi
+11/08/2024;16:00;Flamengo;1X1;Palmeiras; 55.051 ;Estadio Jornalista Mario Filho
+11/08/2024;16:00;Bahia;2X0;Vitoria; 45.972 ;Itaipava Arena Fonte Nova
+11/08/2024;19:00;Internacional;2X2;Ath Paranaense; 17.136 ;Estadio Jose Pinheiro Borba
+10/08/2024;21:30;Cruzeiro;0X0;Atletico Mineiro; 61.583 ;Estadio Governador Magalhaes  Pinto
+10/08/2024;21:30;Corinthians;1X1;RB Bragantino; 42.018 ;Neo Quimica Arena
+10/08/2024;21:30;Vasco da Gama;2X0;Fluminense; 20.003 ;Estadio Nilton Santos
+14/08/2024;19:30;Internacional;2X1;Juventude; 1.192 ;Estadio Jose Pinheiro Borba
+17/08/2024;16:00;Atletico Mineiro;1X1;Cuiaba; 3.629 ;Arena MRV
+17/08/2024;16:00;Gremio;0X2;Bahia; 56.102 ;Estadio Alfredo Jaconi
+17/08/2024;18:30;RB Bragantino;1X2;Fortaleza; 3.928 ;Estadio Nabi Abi Chedid
+18/08/2024;16:00;Criciuma;2X2;Vasco da Gama; 18.403 ;Estadio Heriberto Hulse
+18/08/2024;16:00;Palmeiras;2X1;Sao Paulo; 37.244 ;Allianz Parque
+18/08/2024;16:00;Atl Goianiense;1X0;Internacional; 546 ;Estadio Antonio Accioly
+18/08/2024;18:30;Ath Paranaense;1X2;Juventude; 22.926 ;Ligga Arena
+18/08/2024;18:30;Botafogo (RJ);4X1;Flamengo; 23.731 ;Estadio Nilton Santos
+17/08/2024;21:00;Fluminense;0X0;Corinthians; 30.475 ;Estadio Jornalista Mario Filho
+19/08/2024;20:00;Vitoria;2X2;Cruzeiro; 17.062 ;Estadio Manoel Barradas
+24/08/2024;16:00;Atl Goianiense;2X1;Juventude; 4.407 ;Estadio Antonio Accioly
+24/08/2024;18:30;Palmeiras;5X0;Cuiaba; 30.956 ;Estadio Brinco de Ouro da Princesa
+25/08/2024;16:00;Criciuma;0X1;Gremio; 17.377 ;Estadio Heriberto Hulse
+25/08/2024;16:00;Bahia;0X0;Botafogo (RJ); 40.198 ;Itaipava Arena Fonte Nova
+25/08/2024;16:00;Fortaleza;1X0;Corinthians; 51.297 ;Estadio Castelao
+25/08/2024;18:30;Sao Paulo;2X1;Vitoria; 32.712 ;Estadio do Morumbi
+25/08/2024;19:00;Internacional;1X0;Cruzeiro; 26.634 ;Estadio Jose Pinheiro Borba
+25/08/2024;20:00;Flamengo;2X1;RB Bragantino; 28.159 ;Estadio Jornalista Mario Filho
+24/08/2024;21:00;Atletico Mineiro;0X2;Fluminense; 32.068 ;Estadio Governador Magalhaes  Pinto
+26/08/2024;21:00;Vasco da Gama;2X1;Ath Paranaense; 16.433 ;Estadio Club de Regatas Vasco da Gama
+28/08/2024;19:30;Cruzeiro;0X0;Internacional; 35.238 ;Estadio Governador Magalhaes  Pinto
+28/08/2024;19:30;Criciuma;1X0;RB Bragantino; 11.849 ;Estadio Heriberto Hulse
+31/08/2024;17:30 (18:30);Cuiaba;2X1;Criciuma; 4.095 ;Arena Pantanal
+01/09/2024;11:00;Cruzeiro;3X1;Atl Goianiense; 50 ;Estadio Governador Magalhaes  Pinto
+01/09/2024;11:00;Gremio;2X3;Atletico Mineiro; 27.442 ;Arena do Gremio
+01/09/2024;16:00;Corinthians;2X1;Flamengo; 45.635 ;Neo Quimica Arena
+01/09/2024;18:30;Juventude;1X3;Internacional; 10.721 ;Estadio Alfredo Jaconi
+01/09/2024;18:30;Ath Paranaense;0X2;Palmeiras; 28.334 ;Ligga Arena
+01/09/2024;18:30;Fluminense;2X0;Sao Paulo; 45.759 ;Estadio Jornalista Mario Filho
+01/09/2024;18:30;Vitoria;0X1;Vasco da Gama; 20.923 ;Estadio Manoel Barradas
+01/09/2024;18:30;RB Bragantino;2X1;Bahia; 3.921 ;Estadio Nabi Abi Chedid
+31/08/2024;21:00;Botafogo (RJ);2X0;Fortaleza; 32.564 ;Estadio Nilton Santos
+05/09/2024;19:00 (20:00);Cuiaba;0X0;Juventude; 4.826 ;Arena Pantanal
+11/09/2024;19:30;Internacional;2X1;Fortaleza; 26.441 ;Estadio Jose Pinheiro Borba
+14/09/2024;16:00;Atl Goianiense;0X2;Vitoria; 4.938 ;Estadio Antonio Accioly
+14/09/2024;18:30;Ath Paranaense;1X1;Fortaleza; 31.551 ;Ligga Arena
+15/09/2024;16:00;RB Bragantino;2X2;Gremio; 5.228 ;Estadio Nabi Abi Chedid
+15/09/2024;16:00;Juventude;2X1;Fluminense; 6.232 ;Estadio Alfredo Jaconi
+15/09/2024;16:00;Palmeiras;5X0;Criciuma; 37.244 ;Allianz Parque
+15/09/2024;18:30;Flamengo;1X1;Vasco da Gama; 652 ;Estadio Jornalista Mario Filho
+15/09/2024;18:30;Cruzeiro;0X1;Sao Paulo; 55 ;Estadio Governador Magalhaes  Pinto
+15/09/2024;18:30;Bahia;3X0;Atletico Mineiro; 2.642 ;Itaipava Arena Fonte Nova
+14/09/2024;21:00;Botafogo (RJ);2X1;Corinthians; 32.718 ;Estadio Nilton Santos
+16/09/2024;20:00;Internacional;3X0;Cuiaba; 35.366 ;Estadio Jose Pinheiro Borba
+21/09/2024;16:00;Vitoria;1X0;Juventude; 24.479 ;Estadio Manoel Barradas
+21/09/2024;16:00;Corinthians;3X0;Atl Goianiense; 46.001 ;Neo Quimica Arena
+21/09/2024;18:30;Fluminense;0X1;Botafogo (RJ); 22 ;Estadio Jornalista Mario Filho
+22/09/2024;16:00;Vasco da Gama;0X1;Palmeiras; 25.755 ;Estadio Nacional de Brasilia
+22/09/2024;16:00;Atletico Mineiro;3X0;RB Bragantino; 34.533 ;Arena MRV
+22/09/2024;17:30 (18:30);Cuiaba;0X0;Cruzeiro; 5.948 ;Arena Pantanal
+22/09/2024;18:30;Gremio;3X2;Flamengo; 48.504 ;Arena do Gremio
+22/09/2024;18:30;Sao Paulo;1X3;Internacional; 35.111 ;Estadio do Morumbi
+22/09/2024;20:00;Criciuma;0X0;Ath Paranaense; 12.765 ;Estadio Heriberto Hulse
+21/09/2024;21:00;Fortaleza;4X1;Bahia; 42.051 ;Estadio Castelao
+25/09/2024;19:00;Gremio;1X2;Criciuma; 18.457 ;Arena do Gremio
+25/09/2024;19:00;RB Bragantino;2X2;Internacional; 3.871 ;Estadio Nabi Abi Chedid
+28/09/2024;18:30;Palmeiras;2X1;Atletico Mineiro; 1.604 ;Estadio Brinco de Ouro da Princesa
+29/09/2024;11:00;Juventude;1X1;RB Bragantino; 6.285 ;Estadio Alfredo Jaconi
+29/09/2024;16:00;Fortaleza;1X0;Cuiaba; 42 ;Estadio Castelao
+29/09/2024;16:00;Atl Goianiense;1X0;Fluminense; 7.871 ;Estadio Antonio Accioly
+29/09/2024;16:00;Sao Paulo;3X1;Corinthians; 25.888 ;Estadio Nacional de Brasilia
+29/09/2024;18:30;Cruzeiro;1X1;Vasco da Gama; 56.331 ;Estadio Governador Magalhaes  Pinto
+29/09/2024;18:30;Internacional;3X1;Vitoria; 45.112 ;Estadio Jose Pinheiro Borba
+29/09/2024;18:30;Bahia;1X0;Criciuma; 24.574 ;Itaipava Arena Fonte Nova
+29/09/2024;20:00;Flamengo;1X0;Ath Paranaense; 30.022 ;Estadio Jornalista Mario Filho
+28/09/2024;21:00;Botafogo (RJ);0X0;Gremio; 4.222 ;Estadio Nacional de Brasilia
+03/10/2024;19:00;Criciuma;2X0;Atl Goianiense; 12.343 ;Estadio Heriberto Hulse
+03/10/2024;21:30;Fluminense;1X0;Cruzeiro; 30.242 ;Estadio Jornalista Mario Filho
+05/10/2024;16:30;RB Bragantino;0X0;Palmeiras; 9.989 ;Estadio Nabi Abi Chedid
+05/10/2024;16:30;Ath Paranaense;0X1;Botafogo (RJ); 22.726 ;Ligga Arena
+05/10/2024;16:30;Atletico Mineiro;2X2;Vitoria; 3.491 ;Arena MRV
+05/10/2024;18:00 (19:00);Cuiaba;2X0;Sao Paulo; 11.883 ;Arena Pantanal
+05/10/2024;19:00;Corinthians;2X2;Internacional; 44.866 ;Neo Quimica Arena
+05/10/2024;19:00;Bahia;0X2;Flamengo; 43.433 ;Itaipava Arena Fonte Nova
+04/10/2024;21:30;Gremio;3X1;Fortaleza; 22.204 ;Arena do Gremio
+05/10/2024;21:00;Vasco da Gama;1X1;Juventude; 18.036 ;Estadio Club de Regatas Vasco da Gama
+09/10/2024;19:30;Atletico Mineiro;2X1;Gremio; 22.053 ;Arena MRV
+17/10/2024;20:00;Flamengo;0X2;Fluminense; 58.117 ;Estadio Jornalista Mario Filho
+17/10/2024;20:00;Corinthians;5X2;Ath Paranaense; 44.399 ;Neo Quimica Arena
+16/10/2024;21:45;Sao Paulo;3X0;Vasco da Gama; 15.947 ;Estadio Brinco de Ouro da Princesa
+16/10/2024;21:45;Fortaleza;1X1;Atletico Mineiro; 23.046 ;Estadio Castelao
+18/10/2024;19:00;Atl Goianiense;0X0;Cuiaba; 3.622 ;Estadio Antonio Accioly
+18/10/2024;20:00;Botafogo (RJ);1X1;Criciuma; 64.727 ;Estadio Jornalista Mario Filho
+19/10/2024;16:00;Vitoria;1X0;RB Bragantino; 25.189 ;Estadio Manoel Barradas
+19/10/2024;16:00;Internacional;1X0;Gremio; 48.049 ;Estadio Jose Pinheiro Borba
+18/10/2024;21:30;Cruzeiro;1X1;Bahia; 34.473 ;Estadio Governador Magalhaes  Pinto
+20/10/2024;20:00;Juventude;3X5;Palmeiras; 10.102 ;Estadio Alfredo Jaconi
+22/10/2024;19:30;Fluminense;1X0;Ath Paranaense; 39.465 ;Estadio Jornalista Mario Filho
+24/10/2024;19:00;Vasco da Gama;1X0;Cuiaba; 16.696 ;Estadio Club de Regatas Vasco da Gama
+26/10/2024;16:30;Vitoria;2X1;Fluminense; 29.497 ;Estadio Manoel Barradas
+26/10/2024;16:30;Flamengo;4X2;Juventude; 657 ;Estadio Jornalista Mario Filho
+26/10/2024;16:30;Gremio;3X1;Atl Goianiense; 36.959 ;Arena do Gremio
+26/10/2024;16:30;Palmeiras;2X2;Fortaleza; 40.321 ;Allianz Parque
+26/10/2024;18:30;Ath Paranaense;3X0;Cruzeiro; 35.959 ;Ligga Arena
+26/10/2024;19:00;Atletico Mineiro;1X3;Internacional; 27.028 ;Arena MRV
+26/10/2024;19:00;RB Bragantino;0X1;Botafogo (RJ); 74 ;Estadio Nabi Abi Chedid
+26/10/2024;22:00;Criciuma;1X1;Sao Paulo; 17.422 ;Estadio Heriberto Hulse
+28/10/2024;18:00 (19:00);Cuiaba;0X1;Corinthians; 1.668 ;Arena Pantanal
+28/10/2024;21:00;Vasco da Gama;3X2;Bahia; 17.213 ;Estadio Club de Regatas Vasco da Gama
+30/10/2024;19:00;Internacional;1X1;Flamengo; 43.729 ;Estadio Jose Pinheiro Borba
+02/11/2024;16:00;RB Bragantino;0X0;Cuiaba; 4.103 ;Estadio Nabi Abi Chedid
+02/11/2024;18:30;Juventude;0X3;Fortaleza; 7.419 ;Estadio Alfredo Jaconi
+02/11/2024;18:30;Ath Paranaense;1X2;Vitoria; 40.666 ;Ligga Arena
+01/11/2024;21:00;Fluminense;2X2;Gremio; 35.278 ;Estadio Jornalista Mario Filho
+04/11/2024;20:00;Corinthians;2X0;Palmeiras; 46.085 ;Neo Quimica Arena
+05/11/2024;21:30;Bahia;0X3;Sao Paulo; 29.599 ;Itaipava Arena Fonte Nova
+05/11/2024;21:30;Internacional;2X0;Criciuma; 29.097 ;Estadio Jose Pinheiro Borba
+05/11/2024;21:30;Botafogo (RJ);3X0;Vasco da Gama; 32.007 ;Estadio Nilton Santos
+06/11/2024;21:00;Atl Goianiense;1X0;Atletico Mineiro; 3.791 ;Estadio Antonio Accioly
+06/11/2024;21:00;Cruzeiro;0X1;Flamengo; 20.855 ;Estadio Raimundo Sampaio
+08/11/2024;19:00;Internacional;2X0;Fluminense; 35.877 ;Estadio Jose Pinheiro Borba
+09/11/2024;16:30;Vitoria;1X2;Corinthians; 30.973 ;Estadio Manoel Barradas
+09/11/2024;16:30;Botafogo (RJ);0X0;Cuiaba; 41.899 ;Estadio Nilton Santos
+09/11/2024;19:00;Cruzeiro;2X1;Criciuma; 29.287 ;Estadio Governador Magalhaes  Pinto
+09/11/2024;19:00;Fortaleza;3X0;Vasco da Gama; 45.271 ;Estadio Castelao
+09/11/2024;19:00;Atl Goianiense;0X0;RB Bragantino; 2.419 ;Estadio Antonio Accioly
+09/11/2024;19:00;Juventude;2X1;Bahia; 6.091 ;Estadio Alfredo Jaconi
+08/11/2024;21:30;Palmeiras;1X0;Gremio; 3.367 ;Allianz Parque
+09/11/2024;21:00;Sao Paulo;2X1;Ath Paranaense; 34.777 ;Estadio do Morumbi
+13/11/2024;20:00;Flamengo;0X0;Atletico Mineiro; 63.441 ;Estadio Jornalista Mario Filho
+16/11/2024;18:30;Ath Paranaense;1X0;Atletico Mineiro; 40.935 ;Ligga Arena
+20/11/2024;11:00;Corinthians;2X1;Cruzeiro; 46.056 ;Neo Quimica Arena
+20/11/2024;16:30;Ath Paranaense;2X0;Atl Goianiense; 42.177 ;Ligga Arena
+20/11/2024;16:30;RB Bragantino;1X1;Sao Paulo; 9.017 ;Estadio Nabi Abi Chedid
+20/11/2024;16:30;Criciuma;0X1;Vitoria; 12.123 ;Estadio Heriberto Hulse
+20/11/2024;18:00;Bahia;1X2;Palmeiras; 36.445 ;Itaipava Arena Fonte Nova
+20/11/2024;18:00 (19:00);Cuiaba;1X2;Flamengo; 12.891 ;Arena Pantanal
+20/11/2024;19:00;Gremio;2X2;Juventude; 40.426 ;Arena do Gremio
+21/11/2024;20:00;Vasco da Gama;0X1;Internacional; 17.339 ;Estadio Club de Regatas Vasco da Gama
+20/11/2024;21:30;Atletico Mineiro;0X0;Botafogo (RJ);;Estadio Raimundo Sampaio
+23/11/2024;19:30;Atl Goianiense;0X1;Palmeiras; 11.216 ;Estadio Antonio Accioly
+23/11/2024;19:30;Botafogo (RJ);1X1;Vitoria; 35.491 ;Estadio Nilton Santos
+23/11/2024;19:30;Juventude;1X1;Cuiaba; 6.932 ;Estadio Alfredo Jaconi
+22/11/2024;21:30;Fluminense;2X2;Fortaleza; 37.969 ;Estadio Jornalista Mario Filho
+24/11/2024;16:00;Bahia;1X1;Ath Paranaense; 26.307 ;Itaipava Arena Fonte Nova
+24/11/2024;16:00;Internacional;4X1;RB Bragantino; 41.762 ;Estadio Jose Pinheiro Borba
+24/11/2024;16:00;Corinthians;3X1;Vasco da Gama; 46.083 ;Neo Quimica Arena
+23/11/2024;21:30;Sao Paulo;2X2;Atletico Mineiro; 36.783 ;Estadio do Morumbi
+26/11/2024;19:00;Fluminense;0X0;Criciuma; 4.124 ;Estadio Jornalista Mario Filho
+26/11/2024;20:00;Fortaleza;0X0;Flamengo; 57.624 ;Estadio Castelao
+26/11/2024;21:30;Atletico Mineiro;2X3;Juventude;;Estadio Raimundo Sampaio
+26/11/2024;21:30;Palmeiras;1X3;Botafogo (RJ); 31.753 ;Allianz Parque
+27/11/2024;21:00;Cruzeiro;1X1;Gremio; 21.009 ;Estadio Governador Magalhaes  Pinto
+30/11/2024;18:30 (19:30);Cuiaba;1X2;Bahia; 2.613 ;Arena Pantanal
+30/11/2024;19:30;Criciuma;2X4;Corinthians; 18.075 ;Estadio Heriberto Hulse
+01/12/2024;16:00;Gremio;2X1;Sao Paulo; 39.197 ;Arena do Gremio
+01/12/2024;16:00;Flamengo;3X2;Internacional; 56.571 ;Estadio Jornalista Mario Filho
+01/12/2024;18:30;Vitoria;2X0;Fortaleza; 2.909 ;Estadio Manoel Barradas
+01/12/2024;18:30;RB Bragantino;1X1;Cruzeiro; 6.223 ;Estadio Nabi Abi Chedid
+01/12/2024;18:30;Ath Paranaense;1X1;Fluminense; 41.375 ;Ligga Arena
+30/11/2024;21:30;Vasco da Gama;2X2;Atl Goianiense; 1.827 ;Estadio Club de Regatas Vasco da Gama
+03/12/2024;20:00;Corinthians;3X0;Bahia; 46.263 ;Neo Quimica Arena
+04/12/2024;19:00;Vasco da Gama;2X0;Atletico Mineiro; 17.074 ;Estadio Club de Regatas Vasco da Gama
+04/12/2024;20:00;Criciuma;0X3;Flamengo; 18.849 ;Estadio Heriberto Hulse
+04/12/2024;20:00;Vitoria;1X1;Gremio; 26.842 ;Estadio Manoel Barradas
+04/12/2024;20:00;Sao Paulo;1X2;Juventude; 31.442 ;Estadio do Morumbi
+05/12/2024;20:00;Fluminense;1X0;Cuiaba; 5.973 ;Estadio Jornalista Mario Filho
+05/12/2024;20:00;Ath Paranaense;1X2;RB Bragantino; 41.626 ;Ligga Arena
+04/12/2024;21:30;Atl Goianiense;3X1;Fortaleza; 3.157 ;Estadio Antonio Accioly
+04/12/2024;21:30;Internacional;0X1;Botafogo (RJ); 37.628 ;Estadio Jose Pinheiro Borba
+04/12/2024;21:30;Cruzeiro;1X2;Palmeiras;;Estadio Governador Magalhaes  Pinto
+08/12/2024;15:00 (16:00);Cuiaba;1X2;Vasco da Gama; 703 ;Arena Pantanal
+08/12/2024;16:00;Botafogo (RJ);2X1;Sao Paulo; 41.986 ;Estadio Nilton Santos
+08/12/2024;16:00;Flamengo;2X2;Vitoria; 67.113 ;Estadio Jornalista Mario Filho
+08/12/2024;16:00;RB Bragantino;5X1;Criciuma; 911 ;Estadio Nabi Abi Chedid
+08/12/2024;16:00;Fortaleza;3X0;Internacional; 51.386 ;Estadio Castelao
+08/12/2024;16:00;Gremio;0X3;Corinthians; 42.945 ;Arena do Gremio
+08/12/2024;16:00;Palmeiras;0X1;Fluminense; 34.571 ;Allianz Parque
+08/12/2024;16:00;Bahia;2X0;Atl Goianiense; 48.476 ;Itaipava Arena Fonte Nova
+08/12/2024;16:00;Juventude;0X1;Cruzeiro; 13.518 ;Estadio Alfredo Jaconi
+08/12/2024;16:00;Atletico Mineiro;1X0;Ath Paranaense;;Arena MRV
