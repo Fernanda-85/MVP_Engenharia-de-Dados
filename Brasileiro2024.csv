@@ -1,4 +1,4 @@
-DATA;HORÁRIO;EM CASA;RESULTADO;VISITANTE; PÚBLICO ;LOCAL
+DATA;HORARIO;MANDANTE;RESULTADO;VISITANTE; PUBLICO ;LOCAL
 13/04/2024;18:30;Criciuma;1X1;Juventude; 12.804 ;Estadio Heriberto Hulse
 13/04/2024;18:30;Internacional;2X1;Bahia; 19.103 ;Estadio Jose Pinheiro Borba
 14/04/2024;16:00;Ath Paranaense;4X0;Cuiaba; 21.388 ;Ligga Arena
@@ -184,7 +184,7 @@ DATA;HORÁRIO;EM CASA;RESULTADO;VISITANTE; PÚBLICO ;LOCAL
 28/07/2024;16:00;Flamengo;2X0;Atl Goianiense; 61.883 ;Estadio Jornalista Mario Filho
 28/07/2024;18:00 (19:00);Cuiaba;1X2;Ath Paranaense; 4.452 ;Arena Pantanal
 28/07/2024;19:00;Atletico Mineiro;2X1;Corinthians; 44.048 ;Arena MRV
-28/07/2024;19:00;Gremio;1X0;Vasco da Gama; 17.621 ;Arena CondÃ¡
+28/07/2024;19:00;Gremio;1X0;Vasco da Gama; 17.621 ;Arena CondÃƒÂ¡
 27/07/2024;21:30;Botafogo (RJ);0X3;Cruzeiro; 19.349 ;Estadio Nilton Santos
 27/07/2024;21:30;Fortaleza;1X0;Sao Paulo; 41.322 ;Estadio Castelao
 03/08/2024;16:00;Vitoria;1X0;Cuiaba; 26.715 ;Estadio Manoel Barradas
@@ -379,3 +379,4 @@ DATA;HORÁRIO;EM CASA;RESULTADO;VISITANTE; PÚBLICO ;LOCAL
 08/12/2024;16:00;Bahia;2X0;Atl Goianiense; 48.476 ;Itaipava Arena Fonte Nova
 08/12/2024;16:00;Juventude;0X1;Cruzeiro; 13.518 ;Estadio Alfredo Jaconi
 08/12/2024;16:00;Atletico Mineiro;1X0;Ath Paranaense;;Arena MRV
+
